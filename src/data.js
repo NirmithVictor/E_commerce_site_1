@@ -65,7 +65,7 @@ const data={
             name:"Formal 3-piece suit",
             category:"Shirts",
             image:'./images/product-6.jpg',
-            price:20,
+            price:320,
             countInStock:0,
             brand:'Brooks Brothers',
             rating:4.9,
