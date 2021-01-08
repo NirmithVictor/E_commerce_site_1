@@ -1,5 +1,3 @@
-#BACKEND FOLDER
-
 const data={
     products: [
         {
